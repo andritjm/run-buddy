@@ -10,3 +10,5 @@ https://lernatino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by James Andritsch
+
+### ©️2019 Run Buddy, Inc
