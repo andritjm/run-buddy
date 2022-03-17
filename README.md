@@ -6,7 +6,7 @@ A website that offers fitness training services.
 *CSS
 
 ## Website
-https://lernatino.github.io/run-buddy/
+https://andritjm.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by James Andritsch
